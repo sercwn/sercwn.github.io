@@ -7,6 +7,6 @@
   <button id="generate">Generate</button>
 </div>
 <div class="footer">
-  <span>Created by <a href="https://t.me/hexonstealer" target="_blank">Hexon</a></span>
+  <span>Created by <a href="https://t.me/x" target="_blank">x</a></span>
 </div>
   `;l(document.querySelector("#copy-content"),"p");a(document.querySelector("#copy-content"));d();
